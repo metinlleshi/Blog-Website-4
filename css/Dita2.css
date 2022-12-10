@@ -1,0 +1,77 @@
+
+body {
+    background: #efefef url("../assets/img/Shape1.png")  no-repeat !important;
+    background-size: 35% !important;
+    background-position: 50% 60% !important;
+    color: #222222;
+}
+
+.element-left {
+    margin-left: -20%;
+    margin-top: 4% !important;
+    text-align: left;
+}
+
+.element-right{
+    text-align: right;
+    margin-top: 4% !important;
+    margin-right: -5%;
+}
+
+.Menu-middle li{
+    display: inline;
+    margin-right: 15px;
+}
+
+.Menu-middle{
+    
+    padding-top: 10%;
+    margin-left: -15%;
+    
+}
+
+.Menu-middle li a{
+    color: #222222;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 160%;
+}
+
+
+footer{
+    padding-top: 38%;
+    
+}
+
+.logo-bottom li a{
+    
+    text-decoration: none;
+}
+
+.logo-bottom li {
+    display: inline;  /* paraqitje horizontale */
+    margin-right: 30px;
+    
+    
+}
+
+.right-side{
+    margin-left: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 180%;
+}
+
+.text-left{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    padding-top: 5%;
+}
+
+
+
+.image-middle{
+    display: block !important;
+    margin-left: 230px;
+    
+    position: absolute;
+}
